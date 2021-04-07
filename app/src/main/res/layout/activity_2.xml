@@ -14,7 +14,7 @@
         android:gravity="center"
         android:text="Registration Form Summary"
         android:textColor="#0E0E0E"
-        android:textSize="36sp"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"

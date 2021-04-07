@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("Languages",languages);
         startActivity(intent);
 
+        // gender and age didn't work
 
     }
 }

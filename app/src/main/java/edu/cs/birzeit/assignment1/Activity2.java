@@ -17,6 +17,8 @@ public class Activity2 extends AppCompatActivity {
         String email = intent.getStringExtra("Email");
         String address = intent.getStringExtra("Address");
         String phone = intent.getStringExtra("Phone");
+//        String gender = intent.getStringExtra("Gender");
+//        String age = intent.getStringExtra("Age");
         String hobbies = intent.getStringExtra("Hobbies");
         String language = intent.getStringExtra("Languages");
 

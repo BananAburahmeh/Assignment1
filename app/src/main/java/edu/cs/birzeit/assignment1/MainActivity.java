@@ -20,11 +20,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText edtEmail;
     private EditText edtAddress;
     private EditText edtPhone;
-//    private RadioButton btnMail;
-//    private RadioButton btnFemail;
-//    private RadioButton age1;
-//    private RadioButton age2;
-//    private RadioButton age3;
     private EditText edtHobbies;
     private RadioGroup rdg;
     private RadioGroup rdg2;

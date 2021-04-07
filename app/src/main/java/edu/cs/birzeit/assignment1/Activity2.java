@@ -26,6 +26,7 @@ public class Activity2 extends AppCompatActivity {
         TextView summary = findViewById(R.id.txtSum);
         summary.setText("Name: "+name+ "\nEmail: "+email +"\nAddress: "+address+"\nPhone: "+phone+
                 "\nGender: "+"\nAge: "+"\nHobbies: "+hobbies+"\nLanguage: "+language+"");
+        // gender and age didn't work
 
 
 
